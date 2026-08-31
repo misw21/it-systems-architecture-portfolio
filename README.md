@@ -54,29 +54,12 @@ it-systems-architecture-portfolio/
 │   ├── Software_Paradigms_OS_Activity_2.docx
 │   ├── Data_Communication_Networks_Activity_3.docx
 │   └── Societal_Impact_Emerging_Tech_Activity_4.docx
-├── src/                                       # Python Hardware & Network Diagnostics
-│   ├── __init__.py
-│   ├── system_diagnostics.py                  # Workstation compute & OS architecture profiler
-│   ├── network_bandwidth_analyzer.py          # Transmission delay & bandwidth-delay product simulator
-│   └── main.py                                # Interactive IT Systems CLI runner
 ├── LICENSE                                    # MIT License
 └── README.md                                  # Comprehensive portfolio documentation
 ```
 
 ---
 
-## 🚀 Running the IT Systems Diagnostics Utility
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/your-username/it-systems-architecture-portfolio.git
-cd it-systems-architecture-portfolio
-
-# 2. Run the system diagnostics script
-python src/main.py
-```
-
----
 
 ## 📄 License
 
